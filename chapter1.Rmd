@@ -1,0 +1,25 @@
+---
+title: "chapter1"
+author: "yufanyin"
+date: "2020/9/14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Happy birthday to you ~
+
+#### **Happy birthday to you ~**
+
+### $\color{orange}{\text{Happy birthday to yououou}}$
+
+## $\color{red}{\text{Happy birthday to you !}}$
+
+# ^ - ^
+
+
+**Yeah!**
+
